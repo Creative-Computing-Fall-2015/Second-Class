@@ -1,21 +1,21 @@
 # Second-Class
-Wow! Our second class! HTML!!!!
-Class0002 - CSS
 
-House Keeping
+# Class0002 - HTML
 
-sorry the homework was confusing.
-your server space is coming
-email me ever week by midnight Thursday evening with 2 questions
-this weekend http://yami-ichi.biz/nyc/ is a cool internet thing.
+# House Keeping
 
-Last week
+- sorry the homework was confusing.
+- your server space is coming
+- email me ever week by midnight Thursday evening with 2 questions and URLs to your projects
+- this weekend http://yami-ichi.biz/nyc/ is a cool internet thing.
 
-HTML Some things to consider:
-structure of a page
-where do all the files go?
-HTML
-document type
+# Today's Schedule
+
+- HTML Some things to consider:
+  - structure of a page
+- where do all the files go?
+- HTML
+	- document type
 CSS
 Document
 what is the dom?
