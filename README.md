@@ -72,6 +72,20 @@ Wall Drawing #797: The first drafter has a black marker and makes an irregular h
 
 "Wall Drawing #797” - Blanton Museum of Art - https://www.youtube.com/watch?v=Gc-c-pYGCrw
 
+# My Example
+
+- pick up your pencil or a pen
+- put the tip of the pencil(or pen) down near a corner about 1” from the corner
+- start drawing a line until you’re half way to the other corner
+- switch angles 45 degrees in any direction
+- draw for 2 inches
+- switch angles
+- go to step 5 but repeat with half the distanced (repeat 3 times)
+
+# Homework
+
+See Second Assignment repository!!
+
 # Single Serving Sites
 
 - http://www.istheltrainfucked.com/
