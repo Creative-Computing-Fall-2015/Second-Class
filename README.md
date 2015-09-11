@@ -32,26 +32,20 @@
 - HTML is pretty simple. I find it’s always better to keep your HTML to a minimum and put the heavy lifting in the CSS and Javascript. Today we’ll try and cover some basic tags and syntax.
 - CSS is INCREDIBLY powerful! However, the most important thing is the syntax and being able to look up features of CSS because there is way too much to cover in class. We won't be looking at CSS today, but stay tuned!
 
-HTML - What is a tag?
-
-start tag
-
-attribute
-
-name, value
-
-contents
-
-end tag
-
-head
+- HTML - What is a tag?
+- start tag
+- attribute
+	- name, value
+- contents
+- end tag
+- head
 	- including files
 	- head HTML elements
 	- title
 	- script (not today)
 	- link (not today)
 	- meta
-body
+- body
 	- html elements
 	- basic text
 		- p
@@ -64,7 +58,7 @@ body
 	- img
 	- pre
 
-folder structures and relative paths
+- folder structures and relative paths
 
 # Human Programming Exercise
 
